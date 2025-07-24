@@ -7,7 +7,7 @@ import numpy as np
 from skimage.feature import local_binary_pattern
 
 
-def extract_enhanced_dct_features(image, kernel_sizes=[15, 30, 45]):
+def extract_enhanced_dct_features(image, kernel_sizes=[10, 15, 20]):
     """
     Extract enhanced DCT features using LMD (Local Mean Decomposition) and DCT
 
