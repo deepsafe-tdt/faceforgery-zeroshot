@@ -1,0 +1,13 @@
+Real dataset: I:\NCY\celeba_shuju\new_images_1000\train_0
+Fake dataset: I:\NCY\T2I\new_Midjourney_1000\train_0
+Processing time: 233.26 seconds
+Real image accuracy: 0.9900
+Fake image accuracy: 0.9940
+Overall metrics:
+  ACCURACY: 0.9920
+  PRECISION: 0.9940
+  RECALL: 0.9900
+  F1: 0.9920
+  AUC: 0.9994
+  AP: 0.9993
+
